@@ -40,7 +40,7 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kyraaa-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="kyraaa-dev GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyraaa-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="kyraaa-dev GitHub Stats" />
 </div>
 <br>
 <div align="center">
@@ -50,7 +50,7 @@
 <br>
 <div align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyraaa-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyraaa-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
