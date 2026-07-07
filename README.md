@@ -58,7 +58,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="http://anggawiranata-web-dev.gt.tc">
+  <a href="https://kyraaa-dev.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-00fff9?style=for-the-badge&logo=Google-Chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:email_anda@gmail.com">
