@@ -1,4 +1,46 @@
-<!-- Banner / Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=🇮🇩+Dirgahayu+RI+ke-81+🇮🇩;MERDEKA!;17+Agustus+1945+—+2026" alt="Typing SVG">
+</div>
+
+<br>
+
+<table align="center" border="0" cellpadding="15">
+  <tr>
+    <td bgcolor="#FF0000" align="center" width="200"><font color="white" size="5"><b>MERDEKA</b></font></td>
+    <td bgcolor="#FFFFFF" align="center" width="200"><font color="red" size="5"><b>🇮🇩</b></font></td>
+    <td bgcolor="#FF0000" align="center" width="200"><font color="white" size="5"><b>MERDEKA</b></font></td>
+  </tr>
+</table>
+
+<h2 align="center" style="color: #FF0000;">🔥 Semangat 45! Kobarkan Persatuan! 🔥</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HUT_RI_ke-81-FF0000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/17_Agustus_1945-FFFFFF?style=for-the-badge&labelColor=FF0000&color=FFFFFF">
+  <img src="https://img.shields.io/badge/Indonesia_Berdaulat_Adil_dan_Makmur-FFD700?style=for-the-badge&labelColor=FF0000&color=FFD700">
+</p>
+
+<div align="center">
+  <img src="https://flagcdn.com/w320/id.png" width="120" alt="Bendera Indonesia">
+</div>
+
+<blockquote align="center">
+  <i>"Kami, bangsa Indonesia, dengan ini menjatakan kemerdekaan Indonesia."</i><br>
+  <b>— Ir. Soekarno</b>
+</blockquote>
+
+<hr>
+
+<p align="center">
+  <b>#IndonesiaBerdaulatAdilDanMakmur</b><br>
+  <b>#DirgahayuRI81</b><br>
+  <b>#Merdeka</b>
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Pengunjung+HUT+RI+ke-81&color=FF0000&style=flat-square" alt="Visitor Counter">
+</p><!-- Banner / Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00fff9&height=250&section=header&text=Hi%20there,%20I'm%20Angga!%20👋&fontSize=40&fontAlignY=35&desc=Fullstack%20Web%20Developer&descAlignY=55&descAlign=50&animation=twinkling" />
 </div>
