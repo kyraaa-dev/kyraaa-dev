@@ -65,8 +65,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/FF0000/FFFFFF?text=Dirgahayu+Republik+Indonesia+ke-81" alt="Spanduk HUT RI ke-81" width="100%">
-</div>
 
 
