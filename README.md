@@ -69,25 +69,4 @@
   <img src="https://via.placeholder.com/1200x300/FF0000/FFFFFF?text=Dirgahayu+Republik+Indonesia+ke-81" alt="Spanduk HUT RI ke-81" width="100%">
 </div>
 
-<h1 align="center" style="color: #FF0000;">🇮🇩 MERDEKA! 🇮🇩</h1>
 
-<p align="center" style="font-size: 1.2em; color: #FF0000;">
-  <strong>Selamat Hari Kemerdekaan Indonesia yang ke-81!</strong><br>
-  17 Agustus 1945 - 17 Agustus 2026
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HUT_RI_ke-81-FF0000?style=for-the-badge&logo=github" alt="HUT RI ke-81">
-  <img src="https://img.shields.io/badge/Merdeka-Indonesia-FFFFFF?style=for-the-badge&labelColor=FF0000" alt="Merdeka Indonesia">
-</p>
-
-<p align="center">
-  <i>"Kami, bangsa Indonesia, dengan ini menyatakan kemerdekaan Indonesia."</i><br>
-  — Ir. Soekarno
-</p>
-
-<hr>
-
-<p align="center">
-  Semangat 45! Jayalah selalu tanah airku, Indonesia. 🏆
-</p>
