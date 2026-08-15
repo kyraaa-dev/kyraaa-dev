@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=🇮🇩+Dirgahayu+RI+ke-81+🇮🇩;MERDEKA!;17+Agustus+1945+—+2026" alt="Typing SVG">
+  <img src="font=Fira+Code&size=30&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=🇮🇩+Dirgahayu+RI+ke-81+🇮🇩;MERDEKA!;17+Agustus+1945+—+2026" alt="Typing SVG">
 </div>
 
 <br>
